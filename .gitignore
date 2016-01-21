@@ -1,3 +1,6 @@
 puphpet/config-custom.yaml
 /app_sources/
 /phalcontest/
+.vagrant
+/html/mvc/
+/html/phalcontest/

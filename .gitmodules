@@ -1,3 +1,6 @@
 [submodule "html/beanstalk_console"]
 	path = html/beanstalk_console
 	url = https://github.com/ptrofimov/beanstalk_console.git
+[submodule "html/phalcon-devtools"]
+	path = html/phalcon-devtools
+	url = ../../phalcon/phalcon-devtools
