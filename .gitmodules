@@ -1,0 +1,3 @@
+[submodule "html/beanstalk_console"]
+	path = html/beanstalk_console
+	url = https://github.com/ptrofimov/beanstalk_console.git
