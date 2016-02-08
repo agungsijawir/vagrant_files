@@ -233,7 +233,7 @@ php:
         php:
             - cli
             - intl
-            - bcmath
+            - redis
             - common
             - curl
             - fpm
@@ -242,7 +242,6 @@ php:
             - mbstring
             - mysqlnd
             - tidy
-            - snmp
         pear: {  }
         pecl: {  }
     ini:
